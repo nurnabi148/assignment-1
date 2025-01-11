@@ -352,6 +352,44 @@ td{
     margin-bottom: 32px;
 
 }
-.don button{
-    margin:0px auto;
+
+.Don{
+
+   text-align: center;
+}
+.max
+{
+    max-width: 1280px;
+    margin-bottom: 80px;
+}
+.color {
+    background-color: #C6E4D6;
+}
+.add {
+    text-align: center;
+}
+.container3
+{
+    max-width: 1280px;
+    margin:0 auto;
+    border-radius: 24px;
+    background-color:#C6E4D6;
+    padding: 48px;
+    box-shadow:0px 4px 4px 0px #000000;
+    margin-bottom: 24px;
+    border: none;
+}
+.long
+{
+    padding: 20px 422px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.tong
+{
+    background-color: #006A50;
+    padding: 17px 34px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
 }
