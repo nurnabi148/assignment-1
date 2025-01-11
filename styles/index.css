@@ -240,13 +240,13 @@ td{
     background-color: #FFFFFF;
     padding: 48px;
     box-shadow:0px 4px 4px 0px #000000;
+    margin-bottom: 24px;
 }
 .news
 {
  font-weight: bold;
  font-size: 40px;
  color: #000000;
- 
 }
 .descriptionn 
 {
@@ -271,6 +271,87 @@ td{
     font-size: 18px;
     color:#FFFFFF;
     margin-top: 32px;
+    
 
 
+}
+.container1
+{
+    display: flex;
+    gap:32px;
+    align-items:flex-start ;
+    max-width: 1280px;
+    padding: 48px;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 4px 0px #000000;
+   margin-bottom: 24px;
+}
+.head 
+{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.description1 
+{
+    font-weight: 400;
+    font-size:16px ;
+    color: #0E0E0E;
+}
+.read-more2 button
+{
+    border-radius: 8px;
+    padding:10px 20px;
+    background-color: #006A50;
+    border: none;
+    font: 600;
+    font-size: 18px;
+    color:#FFFFFF;
+    margin-top: 32px;
+    
+    
+}
+.today
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    text-align: center;
+}
+.taka 
+{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.money{
+    padding:40px;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    box-shadow:0px 4px 4px white;
+    border: none;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 32px;
+
+}
+.donate-description
+{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.empty
+{
+    font-weight: 400;
+    font-size: 20px; 
+    padding: 32px 550px;
+    margin-bottom: 32px;
+
+}
+.don button{
+    margin:0px auto;
 }
