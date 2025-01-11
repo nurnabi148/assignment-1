@@ -1,0 +1,276 @@
+.open-sans-normal{
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+ main{
+    max-width: 1280px;
+    margin:0px auto;
+    /* background-color: #F1F1F3; */
+} 
+
+.body-color
+{
+    background-color: #F1F1F3;
+}
+
+/* nave style */
+nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 31px 160px;
+    gap: 942px;
+    /* background-color: #F1F1F3; */
+}
+.button-color
+{
+    color: #006A50;
+    border-radius: 8px;
+    padding:15px 30px;
+    
+}
+.nav-title
+{
+    font-size: 32px;
+    font-weight: bold;
+    color:#0E0E0E;
+    /* width: 222px; */
+    /* height: 38px; */
+}
+nav ul{
+    display: flex;
+}
+
+/* bangladesh -class */
+.bangladesh-class
+{
+    font-weight:500;
+    font-size: 24px;
+    margin-bottom: 16px;
+    color:#0E0E0E;
+    color: 50%;
+}
+.bangladesh-description
+{
+    font-weight: bold;
+    font-size: 56px;
+    color: #0E0E0E;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.bangladesh-button
+{
+    background-color: #006A50;
+    color: #FFFFFF;
+    padding:17px 34px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 18px;
+    
+}
+.banner1
+
+{
+    display:flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    margin:0px 160px 0px 160px;
+    /* width: 1280px; */
+    gap: 64px;;
+}
+.banner-content
+{
+    /* width: 474.03px; */
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 59px;
+    height: 400px;
+}
+.bn-content{
+    /* max-width: 622px; */
+    padding-top: 117px;
+    padding-left: 59px;
+    padding-bottom: 197px;
+}
+/* .piller-bangladesh
+{
+    width: 1280px;
+    height: 324px;
+    /* paddig-top:; */
+.bangladesh-title{
+    font-weight:bold;
+    font-size: 40px;
+    color: #0E0E0E;
+}
+
+
+.skill-container{
+    display:flex;
+    gap: 24px;
+}
+.skill {
+    padding: 30px;
+    box-shadow:0px 4px 4px 0px #000000;
+    border-radius: 16px;
+    padding: 24px;
+
+}
+.bd-head
+{
+    /* width: 1280px; */
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.skill2-container
+{
+    display: flex;
+    gap: 24px;
+}
+.banner2
+{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.skill2{
+    box-shadow:0px 4px 4px 0px #000000;
+    border-radius: 16px;
+    background-color: #5490F5;
+    padding-left:32px;
+    padding-right: 32px;
+    padding-top: 120px;
+    padding-bottom: 97px;
+}
+
+.future
+{
+    font-weight: bold;
+font-size:40px;
+}
+.nation 
+{
+    font-weight:20px;
+    font-size: 16px;
+}
+.more
+{
+    font-weight: 500;
+    font-size: 16px;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color:rgb(158, 16, 16);
+    border-radius: 16px;
+    color: #FFFFFF;
+
+}
+.dr 
+{
+    /* padding:32px 160px 80px 160px; */
+    border-radius: 16px;
+    background-color:#FFFFFF;
+    padding:48px 24px;
+    /* margin-bottom: 0 auto; */
+
+}
+.html-table
+{
+    border:1px solid black;
+    border-collapse: collapse;
+    background-color: #FFFFFF;
+    
+    
+}
+th{
+    border: 1px solid black;
+    background-color: #C6E4D6;
+}
+td{
+    border: 1px solid black;
+    padding:36px 24px;
+    font-size: 16px;
+    font-weight: 600px;
+}
+.qq
+{
+    text-align: left;
+    padding: 24px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.Yes
+{
+    padding:24px;
+    background-color:#C6E4D6;
+    font-weight: 200px;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.opinion
+{
+    padding: 80px 160px;
+    border-radius: 16px;
+    background-color:#FFFFFF;
+}
+.title-miya
+{
+    font-weight: bold;
+    font-size: 40px;
+}
+.sat 
+{
+    display: flex;
+    gap: 32px;
+    align-items:flex-start ;
+}
+.container 
+{
+    max-width: 1280px;
+    margin:0 auto;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+    padding: 48px;
+    box-shadow:0px 4px 4px 0px #000000;
+}
+.news
+{
+ font-weight: bold;
+ font-size: 40px;
+ color: #000000;
+ 
+}
+.descriptionn 
+{
+    font-weight: 400;
+    font-size: 16px;
+}
+.sat-title {
+
+    font-weight: bold;
+    font-size: 32px;
+    color: #0E0E0E;
+    margin-top: 12px;
+    margin-bottom: 32px;
+}
+.read-more button
+{
+    background-color: #006A50;
+    padding:10px 20px;
+    border-radius: 8px;
+    border: none;
+    font: 600;
+    font-size: 18px;
+    color:#FFFFFF;
+    margin-top: 32px;
+
+
+}
