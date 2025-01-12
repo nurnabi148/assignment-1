@@ -136,6 +136,7 @@ nav ul{
 {
     display: flex;
     gap: 24px;
+   
 }
 .banner2
 {
@@ -145,10 +146,11 @@ nav ul{
     padding-right: 160px; */
     margin: 0px auto;
 }
+
 .skill2{
     box-shadow:0px 4px 4px 0px #000000;
     border-radius: 16px;
-    background-color: #5490F5;
+    background-color:#5490F5;
     padding-left:32px;
     padding-right: 32px;
     padding-top: 120px;
@@ -342,13 +344,24 @@ td{
     color: #0E0E0E;
     text-align: center;
 }
-.taka 
+/* .taka 
 {
     display: flex;
     justify-content: space-around;
     
 
-}
+} */
+ .dolar 
+ {
+    display: flex;
+    gap: 24px;
+    padding-left: 104px;
+ }
+ .money:hover 
+ {
+    background-color:#C6E4D6;
+ }
+ 
 
 .money{
     padding:40px;
@@ -432,6 +445,8 @@ td{
 {
     padding: 18px 400px 18px 40px;
     /* margin: 0 auto; */
+    border-radius:5px;
+    border: none;
    
 }
 .passage
