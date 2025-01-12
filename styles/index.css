@@ -150,11 +150,31 @@ nav ul{
 .skill2{
     box-shadow:0px 4px 4px 0px #000000;
     border-radius: 16px;
-    background-color:#5490F5;
+    background-color:#7495CC;
     padding-left:32px;
     padding-right: 32px;
     padding-top: 120px;
     padding-bottom: 97px;
+}
+.skill3
+{
+    box-shadow:0px 4px 4px 0px #000000;
+    border-radius: 16px; 
+    padding-left:32px;
+    padding-right: 32px;
+    padding-top: 120px;
+    padding-bottom: 97px;
+    background-color:#C6E4D6;
+}
+.skill4 
+{
+    box-shadow:0px 4px 4px 0px #000000;
+    border-radius: 16px; 
+    padding-left:32px;
+    padding-right: 32px;
+    padding-top: 120px;
+    padding-bottom: 97px;
+    background-color: #F7EBCF;
 }
 
 .future
@@ -167,7 +187,7 @@ font-size:40px;
     font-weight:20px;
     font-size: 16px;
 }
-.more
+.more1
 {
     font-weight: 500;
     font-size: 16px;
@@ -175,10 +195,34 @@ font-size:40px;
     padding-right: 20px;
     padding-top: 11px;
     padding-bottom: 11px;
-    background-color:rgb(158, 16, 16);
+    background-color:#5490F5;
     border-radius: 16px;
     color: #FFFFFF;
 
+}
+.more2 
+{
+    font-weight: 500;
+    font-size: 16px;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-radius: 16px;
+    color: #FFFFFF;
+    background-color: #09A15C;
+}
+.more3 
+{
+    font-weight: 500;
+    font-size: 16px;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-radius: 16px;
+    color: #FFFFFF;
+    background-color:#FFC239;
 }
 .dr 
 {
