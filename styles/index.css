@@ -159,22 +159,24 @@ nav ul{
 .skill3
 {
     box-shadow:0px 4px 4px 0px #000000;
-    border-radius: 16px; 
+    border-radius: 16px;
+    background-color:#C6E4D6;
     padding-left:32px;
     padding-right: 32px;
     padding-top: 120px;
     padding-bottom: 97px;
-    background-color:#C6E4D6;
+   
 }
 .skill4 
 {
     box-shadow:0px 4px 4px 0px #000000;
-    border-radius: 16px; 
+    border-radius: 16px;
+    background-color: #F7EBCF;
     padding-left:32px;
     padding-right: 32px;
     padding-top: 120px;
     padding-bottom: 97px;
-    background-color: #F7EBCF;
+    
 }
 
 .future
