@@ -5,11 +5,11 @@
   font-variation-settings:
     "wdth" 100;
 }
- main{
+  main{
     max-width: 1280px;
     margin:0px auto;
-    /* background-color: #F1F1F3; */
-} 
+    background-color: #F1F1F3;
+}  
 
 .body-color
 {
@@ -21,9 +21,10 @@ nav
 {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    margin: 31px 160px;
-    gap: 942px;
+    justify-content:space-around;
+    /* margin: 31px 160px; */
+    /* gap: 942px; */
+    margin: 0px auto;
     /* background-color: #F1F1F3; */
 }
 .button-color
@@ -79,9 +80,11 @@ nav ul{
     justify-content: space-between;
     background-color: #C6E4D6;
     border-radius: 24px;
-    margin:0px 160px 0px 160px;
+    /* margin:0px 160px 0px 160px; */
     /* width: 1280px; */
-    gap: 64px;;
+    gap: 64px;
+    margin: 0px auto;
+    align-items: center;
 }
 .banner-content
 {
@@ -123,10 +126,11 @@ nav ul{
 .bd-head
 {
     /* width: 1280px; */
-    padding-top: 80px;
+    /* padding-top: 80px;
     padding-bottom: 80px;
     padding-left: 160px;
-    padding-right: 160px;
+    padding-right: 160px; */
+    margin: 0px auto;
 }
 .skill2-container
 {
@@ -135,10 +139,11 @@ nav ul{
 }
 .banner2
 {
-    padding-top: 80px;
+    /* padding-top: 80px;
     padding-bottom: 80px;
     padding-left: 160px;
-    padding-right: 160px;
+    padding-right: 160px; */
+    margin: 0px auto;
 }
 .skill2{
     box-shadow:0px 4px 4px 0px #000000;
@@ -205,8 +210,20 @@ td{
     text-align: left;
     padding: 24px;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 600;
+    color:#0E0E0E;
 }
+.do-you 
+{
+    font-weight: 600;
+    font-size: 16px;
+}
+/* .agree 
+{
+    font-weight: 500;
+    font-size: 16px;
+    color: #0E0E0E; */
+
 .Yes
 {
     padding:24px;
@@ -230,7 +247,12 @@ td{
 {
     display: flex;
     gap: 32px;
-    align-items:flex-start ;
+    /* s */
+    align-items: center;
+}
+.images
+{
+    border-radius: 24px;
 }
 .container 
 {
@@ -241,6 +263,7 @@ td{
     padding: 48px;
     box-shadow:0px 4px 4px 0px #000000;
     margin-bottom: 24px;
+    /* align-items: center; */
 }
 .news
 {
@@ -392,4 +415,27 @@ td{
     font-weight: 600;
     font-size: 18px;
     color: #FFFFFF;
+    border-radius: 8px;
+}
+.sub-titile
+{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+}
+.sub-description
+{
+    font-size: 16px;
+    font-weight: 400;
+}
+.email-write 
+{
+    padding: 18px 400px 18px 40px;
+    /* margin: 0 auto; */
+   
+}
+.passage
+{
+    font-size: 16px;
+    font-weight: 400;
 }
