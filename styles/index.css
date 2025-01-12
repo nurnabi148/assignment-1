@@ -297,6 +297,7 @@ td{
     gap: 32px;
     /* s */
     align-items: center;
+    justify-content: center;
 }
 .images
 {
@@ -311,6 +312,8 @@ td{
     padding: 48px;
     box-shadow:0px 4px 4px 0px #000000;
     margin-bottom: 24px;
+    /* align-items: center;
+    justify-content:center; */
     /* align-items: center; */
 }
 .news
